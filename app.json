@@ -1,0 +1,21 @@
+{
+  "name": "AsteroidDB",
+  "description": "An upgraded version of TinyWebDB. Works everywhere, with more features.",
+  "website": "https://succ.pw",
+  "repository": "https://github.com/mauritsf15/ViewTubeDB",
+  "logo": "https://yusufcihan.com/img/icon.png",
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ],
+  "keywords": [
+    "tinywebdb",
+    "makeroid",
+    "android",
+    "python",
+    "flask",
+    "sqlalchemy",
+    "postgresql",
+    "appinventor"
+  ],
+  "generator": "https://www.expeditedssl.com/heroku-button-maker"
+}
